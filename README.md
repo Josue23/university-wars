@@ -25,3 +25,7 @@ Eu acredito em Gamificação e [já utilizei outras vezes](https://woliveiras.co
 O GitHub é o melhor lugar pra deixar isso? Não sei. Porém acho legal outras pessoas verem se não estou atualizando aqui e me cobrarem!
 
 Imagina ter a internet inteira te ajudando a conquistar um objetivo! Muito mais motivação `pra não ser punido publicamente`. :joy: :joy: :joy:
+
+## Como vai funcionar
+
+Vou adicionar metas de estudos para as semanas em arquivos [nessa pasta](/contents) organizados por assunto/matéria e devo ir finalizando as aulas teóricas, exercícios e provas de acordo com que me propús a fazer.
