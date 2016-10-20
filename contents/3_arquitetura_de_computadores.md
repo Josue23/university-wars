@@ -15,7 +15,9 @@
 - [x] PRÁTICA 2 - Exercício de Fixação
 - [x] PRÁTICA 3 - Exercício de Fixação
 - [x] PRÁTICA 4 - Exercício de Fixação
+- [x] PRÁTICA 5 - Exercício de Fixação
+- [x] PRÁTICA 6 - Exercício de Fixação
 
 ## Avaliações
 
-- [x] AVALIAÇÂO
+- [ ] AVALIAÇÂO
