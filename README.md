@@ -35,4 +35,5 @@ Os arquivos estão separados por ordem de mês em que devem ser estudados.
 Ex.:
 
 Mês um, arquvivos `1_conteudo_x`, `1_conteudo_y`.
+
 Mês dois, arquivos `2_conteudo_x`, `2_conteudo_y`.
