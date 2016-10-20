@@ -29,3 +29,10 @@ Imagina ter a internet inteira te ajudando a conquistar um objetivo! Muito mais 
 ## Como vai funcionar
 
 Vou adicionar metas de estudos para as semanas em arquivos [nessa pasta](/contents) organizados por assunto/matéria e devo ir finalizando as aulas teóricas, exercícios e provas de acordo com que me propús a fazer.
+
+Os arquivos estão separados por ordem de mês em que devem ser estudados.
+
+Ex.:
+
+Mês um, arquvivos `1_conteudo_x`, `1_conteudo_y`.
+Mês dois, arquivos `2_conteudo_x`, `2_conteudo_y`.
