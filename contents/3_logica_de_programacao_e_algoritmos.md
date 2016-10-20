@@ -1,4 +1,4 @@
-# Comunicação Empresarial
+# Lógica de programação e algoritmos
 
 ## Teoria
 
@@ -24,4 +24,4 @@
 
 ## Avaliações
 
-- [ ] AVALIAÇÂO
+- [ ] AVALIAÇÃO
